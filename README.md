@@ -1,7 +1,7 @@
 # İTÜ Computer Vision
 Homeworks and Term Project Code for İTÜ Undergraduate Computer Vision Class.
 
-Term project consists of 4 questions. Since it was a team project, we have shared the questions equally and I have done question 2 and 3. (Term project code is to be uploaded.)
+Term project consists of 4 questions. Since it was a team project, we have shared the questions equally and I have done question 2 and 3.
 
 ### Homework 1
 
